@@ -8,6 +8,7 @@ public class IgorCocktailsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IgorCocktailsApplication.class, args);
+		System.out.println("aa");
 	}
 
 }
